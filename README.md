@@ -69,10 +69,10 @@
 ---
 
 ## 📊 GitHub Performance
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nizamuddinraqeeb&show_icons=true&title_color=0B1F3A&icon_color=00C2FF&text_color=1C1C1C&bg_color=F5F7FA&border_radius=12&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizamuddinraqeeb&theme=tokyonight"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nizamuddinraqeeb&ring=0B1F3A&fire=00C2FF&currStreakLabel=2F5D8A&background=F5F7FA&cache_seconds=1800" />
