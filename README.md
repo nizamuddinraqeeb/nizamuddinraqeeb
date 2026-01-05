@@ -52,6 +52,8 @@
 <p>
   <img src="https://img.shields.io/badge/Excel-0B1F3A?style=flat&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-2F5D8A?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-0B1F3A?style=flat&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powerpoint-0B1F3A?style=flat&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
