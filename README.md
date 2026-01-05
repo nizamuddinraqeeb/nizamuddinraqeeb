@@ -72,20 +72,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nizamuddinraqeeb&theme=tokyonight"/>
 </p>
-
+<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nizamuddinraqeeb&ring=0B1F3A&fire=00C2FF&currStreakLabel=2F5D8A&background=F5F7FA&cache_seconds=1800" />
 </p>
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/nizamuddinraqeeb/nizamuddinraqeeb/output/github-contribution-grid-snake.svg)
 
----
 
-## 🧬 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/nizamuddinraqeeb/nizamuddinraqeeb/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -109,5 +104,5 @@
 ---
 
 <p align="center">
-  <em>Built with precision. Branded with intent.</em>
+  <em>Turning Data into Smarter Business Decisions.</em>
 </p>
