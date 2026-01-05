@@ -81,7 +81,7 @@
 
 ---
 
-## 🧬 Contribution Activity (Animated)
+## 🧬 Contribution Activity
 
 <p align="center">
   <img src="https://github.com/nizamuddinraqeeb/nizamuddinraqeeb/blob/output/github-contribution-grid-snake.svg" />
